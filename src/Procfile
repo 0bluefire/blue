@@ -1,0 +1,2 @@
+worker:java command-bot.js
+
